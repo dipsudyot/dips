@@ -1,0 +1,2 @@
+# dips
+$ git init
